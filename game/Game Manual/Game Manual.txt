@@ -1,0 +1,140 @@
+The Becoming of a Mathematician 
+Hartanto Kwee Jeffrey
+g1515212@blmcss.edu.hk
+
+(Created as a part of the Information and Communication Technology, School-based Assesments. You may not distribute this program before or after the assessment has completed without the game developer's permission.)
+
+********************** PLEASE READ THIS ************************************
+
+0. Question Answering
+
+- You must give exact answers unless specified otherwise:
+    - Gives your answers as integers or fractions (decimals are not recommended, they only work if the decimal is exact.)
+    - If your answer is -3/5, type -3/5 but not 3/5 or 3/-5.
+
+- Reading questions:
+    - a/b = a divided by b
+    - a/b+c = (a/b)+c, NOT a/(b+c)
+    - a*b = a times b
+
+- Multiple Answers
+There are questions where you may have to give several answers (e.g. a quadratic equation). You should use a comma to seperate your answers.
+e.g. Solve x^2-x-2.
+Answer: 2,-1 or 1,-2
+
+********************** THANK YOU ******************************************
+
+1. Controls
+
+You may use your keyboard or your mouse.
+
+In menus, you can use your up, down keys to move between choices. You can also use your mouse to click on your desired choice.
+
+When there is a inversed triangle floating in the bottom right corner of the screen, you MUST press ENTER to continue (there is no other keys supported).
+
+You can type text when there is a cursor flashing over the grayed out words "Flash Text".
+
+(Additional information: in Multiplayer Mode Online. there are two menus where you can select "Return" or type text (name or IP). When the cursor is flashing, you can type. When you want to choose "Return", press the up down keys to select between typing and leaving.)
+
+For game settings, please edit the Game Settings text file in the folder "Game Settings". You can choose a new resolution for your screen if it is too large on default.
+
+2. Rules
+
+There are three modes in the game, namely the Adventure Mode, the Multiplayer Mode and the Practice Mode.
+
+(1) Adventure Mode
+
+Your goal is to defeat Mathematicians by having intellectual battles with them - asking and asking each other Math questions.
+
+The "Village" is the "selection menu" for everything you can do in Adventure Mode:
+- Journey On...: fight Mathematicians
+- Grinding: practice answering questions before you fight the Mathematicians
+- The Shops: purchase or upgrade equipment, potions or skills.
+- Game Menu: to see statistics, save or quit the game.
+
+"Journey On..." and "Grinding"
+
+    Both modes will put you in a battle with another person. The game goes as follows:
+
+    - First, you will recieve a Math question (by clicking on Proceed to Question)
+    - If you answer the question correctly, you can attack your opponent
+    - After you attack, your opponent will attack you
+
+    The above is a round. The game will end when either person is defeated.
+
+"The Shops"
+
+You can make yourself stronger by purchasing stuff in the shops. 
+
+EXP (Experience Points): Once you have defeated the Mathematicians along with his students, you will earn a reward. The reward consists of EXP and money. Gaining EXP can help you level up, and levelling up will earn you skill points. You can dedicate skill points into the five skills in the game to improve your stats.
+
+In the game, there are five skills that you can train up. They are strength (increase AP), defense (reduces damage), time dilation (lengthens time limit), agility (increases the chance of completely dodging an attack) and health (increase your initial HP). 
+
+Cash: You can buy equipment using cash. Equipment such as armour and swords can increase your attack strength or defense. Potions are one-time use items that can temporarily boost your stats or regenerate your health.
+
+(2) Multiplayer Mode
+
+There are two Multiplayer Modes: Online and Offline mode.
+
+- Offline mode:
+
+The battle is similar to that in the Adventure Mode, except both players take turn to attack the other.
+
+- Online mode:
+
+In this mode, attacks can be made at any instant: upon answering a question, you will immediately deal damage to your player. When an attack is made, information about it will be shown in a small box above the large text box.
+
+How to connect:
+
+To play online mode, you have to open a SERVER. A server accepts conenction from computers, and pairs up two connections to form a game. You need an IP ADDRESS to connect to a server. The IP address identifies the location of the server in the internet so that you can connect to it specifically.
+
+There are two ways of opening a server:
+- Opening the game and entering Multiplayer Mode, you will see a selection "Open a Server". Click on that and wait for about a minute until a message appears in the console (black window with white text).
+- Double-click on the mMultiplayerMode file. It will also open a server.
+
+To connect to the server:
+
+!! WARNING: you can only connect to a server in your local network (that means the Server and your computer is connected to the same Wifi). Connecting two computers in different network might and might not work (you can try.) !!
+
+In the same network:
+
+Get the IP address of the server from
+- the console (a message will appear after the server starts. The IP address is 4 numbers seperated with dots. For example, 192.168.0.1 is an IP address.)
+- open cmd, and run "ipconfig" on the server computer. Find the iPv4 address of the computer.
+
+After you get the IP, please select "Online Multiplayer" -> Enter your name -> "Manual Connection" and type in the IP address. If you opened the server on your own computer (by clicking on "Open a Server", you can simply click "Open a Server" to enter your server.)
+
+In two different networks:
+
+Open the server just shown above. Now you need to do the following:
+
+1. Port Fowarding
+
+In the network router, foward port 40000 of your network to port 40000 to the computer running the server. Search the web for more information about port fowarding.
+
+2. Public IP Address
+
+You can search your network's public IP address online. Search with the keyword "What is my public IP Address?".
+
+Now, on the other computer, connect to the server computer using the public IP address.
+
+Troublshooting:
+1. You have not port forwarded.
+2. Firewall is blocking your connection.
+3. Your service provider does not allow such connections.
+If the first two are solved and still doesn't work, ...
+(I don't even know how to solve this problem.)
+
+
+(3) Practice Mode
+
+You can directly access the question generator in this mode. The flow is as follows:
+
+   Enter a difficulty
+           |
+           v
+   Answer the question
+ (There is no time limit)
+           |
+           v
+Choose whether to play again

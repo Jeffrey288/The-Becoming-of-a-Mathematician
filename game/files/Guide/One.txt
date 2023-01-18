@@ -1,0 +1,24 @@
+The type of questions you will practice in this level are
+-	Quadratic Equations
+-	Graphs of Quadratic Functions
+
+A quadratic equation is in the form of 𝒂𝒙² + 𝒃𝒙 + 𝒄 = 0. Just as 𝒙² = 1 has two solutions, quadratic equations can also have (and at most have) 2 solutions. Note the word “can” because there may be “repeated roots”.
+
+A quadratic equation may be factorized into the form (𝒙 − 𝒓₁)(𝒙 − 𝒓₂) = 0, and the solutions are 𝒙 = 𝒓₁ or 𝒓₂. Several methods may be applied for the factorization, which can be found in this website:
+𝒉𝒕𝒕𝒑𝒔://𝒘𝒘𝒘.𝒎𝒂𝒕𝒉𝒔𝒊𝒔𝒇𝒖𝒏.𝒄𝒐𝒎/𝒂𝒍𝒈𝒆𝒃𝒓𝒂/𝒇𝒂𝒄𝒕𝒐𝒓𝒊𝒏𝒈-𝒒𝒖𝒂𝒅𝒓𝒂𝒕𝒊𝒄𝒔.𝒉𝒕𝒎𝒍
+
+For a more general method of solving quadratic equations, the roots are given by the quadratic formula. See:
+𝒉𝒕𝒕𝒑𝒔://𝒘𝒘𝒘.𝒎𝒂𝒕𝒉𝒔𝒊𝒔𝒇𝒖𝒏.𝒄𝒐𝒎/𝒂𝒍𝒈𝒆𝒃𝒓𝒂/𝒒𝒖𝒂𝒅𝒓𝒂𝒕𝒊𝒄-𝒆𝒒𝒖𝒂𝒕𝒊𝒐𝒏.𝒉𝒕𝒎𝒍
+
+As an exercise, try deriving the sum of roots, 𝒓₁ + 𝒓₂, and product of roots, 𝒓₁𝒓₂, in terms of 𝒂, 𝒃 and 𝒄. You will find that 𝒓₁ + 𝒓₂ = − 𝒃/𝒂 and 𝒓₁𝒓₂ = 𝒄/𝒂.
+
+A quadratic graph has the form 𝒚 = 𝒂𝒙² + 𝒃𝒙 + 𝒄. It is a parabola. There are several properties of the parabola which can be found from the equation, namely the opening direction, the number of x-intercepts, the coordinates of vertices etc. Refer to the following website:
+𝒉𝒕𝒕𝒑𝒔://𝒘𝒘𝒘.𝒎𝒂𝒕𝒉𝒔𝒊𝒔𝒇𝒖𝒏.𝒄𝒐𝒎/𝒂𝒍𝒈𝒆𝒃𝒓𝒂/𝒒𝒖𝒂𝒅𝒓𝒂𝒕𝒊𝒄-𝒆𝒒𝒖𝒂𝒕𝒊𝒐𝒏-𝒈𝒓𝒂𝒑𝒉𝒊𝒏𝒈.𝒉𝒕𝒎𝒍
+
+The “Completing the Square” method may be applied to find the maximum or minimum value of a quadratic formula. It involves writing 𝒂𝒙² + 𝒃𝒙 + 𝒄 into the form 𝒂(𝒙 – 𝒉)² + 𝒌. The maximum value is 𝒌, achieved at 𝒙 = 𝒉. For the derivation of the formula of 𝒉 and 𝒌, see the following website:
+𝒉𝒕𝒕𝒑𝒔://𝒘𝒘𝒘.𝒎𝒂𝒕𝒉𝒔𝒊𝒔𝒇𝒖𝒏.𝒄𝒐𝒎/𝒂𝒍𝒈𝒆𝒃𝒓𝒂/𝒄𝒐𝒎𝒑𝒍𝒆𝒕𝒊𝒏𝒈-𝒔𝒒𝒖𝒂𝒓𝒆.𝒉𝒕𝒎𝒍
+
+The following website covers interesting real world applications of quadratic equations in the field of physics. It does not require any knowledge about physics so don’t be afraid to read it:
+𝒉𝒕𝒕𝒑𝒔://𝒘𝒘𝒘.𝒎𝒂𝒕𝒉𝒔𝒊𝒔𝒇𝒖𝒏.𝒄𝒐𝒎/𝒂𝒍𝒈𝒆𝒃𝒓𝒂/𝒒𝒖𝒂𝒅𝒓𝒂𝒕𝒊𝒄-𝒆𝒒𝒖𝒂𝒕𝒊𝒐𝒏-𝒓𝒆𝒂𝒍-𝒘𝒐𝒓𝒍𝒅.𝒉𝒕𝒎𝒍
+
+Have fun mathing!

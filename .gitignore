@@ -1,0 +1,7 @@
+
+*.pyc
+game/.idea/
+game/outdated/dist/
+game/outdated/build/
+game/venv/
+game/outdated/The Becoming of a Mathematician.spec

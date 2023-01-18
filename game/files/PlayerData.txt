@@ -1,0 +1,25 @@
+{
+    "skills": {
+        "strengthPt": 0,
+        "defensePt": 0,
+        "timePt": 0,
+        "agilityPt": 0,
+        "healthPt": 0
+    },
+    "equipment": {
+        "chestplate": 0,
+        "leggings": 0,
+        "sword": 0
+    },
+    "potions": {
+        "regenPot": 0,
+        "attackPot": 0,
+        "defendPot": 0
+    },
+    "level": 1,
+    "exp": 0,
+    "skillPt": 0,
+    "bal": 0,
+    "bosslevel": 1,
+    "beat": false
+}

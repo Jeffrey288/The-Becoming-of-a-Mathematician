@@ -1,0 +1,30 @@
+The type of questions you will practice in this level is
+-	Geometric Sequence
+-	Polynomials: the factor theorem and the remainder theorem
+
+Note: There will be questions in this game where you have to guess a root in the polynomial, the factorize the whole thing (Don’t blame me :)). The range of the roots are given as follows:
+Integer: from -7 to 7
+Fraction: denominators are not greater than 6, the value is not greater than 2.
+
+For a summary of Geometric Sequences, visit
+𝒉𝒕𝒕𝒑𝒔://𝒆𝒏.𝒘𝒊𝒌𝒊𝒑𝒆𝒅𝒊𝒂.𝒐𝒓𝒈/𝒘𝒊𝒌𝒊/𝑷𝒐𝒍𝒚𝒂𝒉𝒕𝒕𝒑𝒔://𝒘𝒘𝒘.𝒎𝒂𝒕𝒉𝒔𝒊𝒔𝒇𝒖𝒏.𝒄𝒐𝒎/𝒂𝒍𝒈𝒆𝒃𝒓𝒂/𝒔𝒆𝒒𝒖𝒆𝒏𝒄𝒆𝒔-𝒔𝒖𝒎𝒔-𝒈𝒆𝒐𝒎𝒆𝒕𝒓𝒊𝒄.𝒉𝒕𝒎𝒍
+ (The formulas cannot be displayed here well, so no formula sheet is given.)
+
+The division algorithm of a polynomial is given by
+𝑷(𝒙) = 𝑫(𝒙) 𝑸(𝒙) + 𝑹(𝒙)
+where 𝑷 is a polynomial (and the dividend), 𝑫 is the divisor, and 𝑸, 𝑹 are the quotient and remainder respectively. Visit this website for examples:
+𝒉𝒕𝒕𝒑𝒔://𝒘𝒘𝒘.𝒂𝒑𝒍𝒖𝒔𝒕𝒐𝒑𝒑𝒆𝒓.𝒄𝒐𝒎/𝒅𝒊𝒗𝒊𝒔𝒊𝒐𝒏-𝒂𝒍𝒈𝒐𝒓𝒊𝒕𝒉𝒎-𝒇𝒐𝒓-𝒑𝒐𝒍𝒚𝒏𝒐𝒎𝒊𝒂𝒍𝒔/
+The remainder theorem states that when a polynomial 𝑷(𝒙) is divided by 𝒙 – 𝒂, the remainder is 𝑷(𝒂). An immediate consequence is that when 𝑷(𝒂) is 0, 𝒙 – 𝒂 is a root of 𝑷(𝒙). This is the factor theorem. Please refer to this website:
+𝒉𝒕𝒕𝒑𝒔://𝒘𝒘𝒘.𝒎𝒂𝒕𝒉𝒔𝒊𝒔𝒇𝒖𝒏.𝒄𝒐𝒎/𝒂𝒍𝒈𝒆𝒃𝒓𝒂/𝒑𝒐𝒍𝒚𝒏𝒐𝒎𝒊𝒂𝒍𝒔-𝒓𝒆𝒎𝒂𝒊𝒏𝒅𝒆𝒓-𝒇𝒂𝒄𝒕𝒐𝒓.𝒉𝒕𝒎𝒍
+
+Read the following for a definition of the GCF of integers.
+𝒉𝒕𝒕𝒑𝒔://𝒘𝒘𝒘.𝒎𝒂𝒕𝒉𝒔𝒊𝒔𝒇𝒖𝒏.𝒄𝒐𝒎/𝒈𝒓𝒆𝒂𝒕𝒆𝒔𝒕-𝒄𝒐𝒎𝒎𝒐𝒏-𝒇𝒂𝒄𝒕𝒐𝒓.𝒉𝒕𝒎𝒍
+This concept applies to polynomials: factorize the polynomials, and find the GCF by comparing these factors.
+
+Quick Maths (Must Read):
+
+The following is an article about the long division of polynomials:
+𝒉𝒕𝒕𝒑𝒔://𝒆𝒏.𝒘𝒊𝒌𝒊𝒑𝒆𝒅𝒊𝒂.𝒐𝒓𝒈/𝒘𝒊𝒌𝒊/𝑷𝒐𝒍𝒚𝒏𝒐𝒎𝒊𝒂𝒍_𝒍𝒐𝒏𝒈_𝒅𝒊𝒗𝒊𝒔𝒊𝒐𝒏
+There is a very quick way of calculating polynomials. The following articles introduce this method:
+𝒉𝒕𝒕𝒑𝒔://𝒘𝒘𝒘.𝒑𝒖𝒓𝒑𝒍𝒆𝒎𝒂𝒕𝒉.𝒄𝒐𝒎/𝒎𝒐𝒅𝒖𝒍𝒆𝒔/𝒔𝒚𝒏𝒕𝒉𝒅𝒊𝒗.𝒉𝒕𝒎 (Recommended)
+𝒉𝒕𝒕𝒑𝒔://𝒆𝒏.𝒘𝒊𝒌𝒊𝒑𝒆𝒅𝒊𝒂.𝒐𝒓𝒈/𝒘𝒊𝒌𝒊/𝑺𝒚𝒏𝒕𝒉𝒆𝒕𝒊𝒄_𝒅𝒊𝒗𝒊𝒔𝒊𝒐𝒏

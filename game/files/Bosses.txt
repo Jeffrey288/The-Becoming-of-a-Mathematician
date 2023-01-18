@@ -1,0 +1,454 @@
+{
+    "Bosses": [
+        {
+            "diff": 1,
+            "name": "Archimedes",
+            "fullHP": 3300,
+            "fullAP": 80,
+            "graphics": "assets/BossImage/Archimedes.png",
+            "rewards": {
+                "exp": 0,
+                "cash": 0
+            },
+            "dialogue": [
+                [
+                    "Narrator",
+                    "Archimedes (287-212 BC) is regarded as one of the leading scientists in classical antiquity. Besides his discovery of the Archimedes principle, a physical law that governs buoyancy forces in a fluid, he is also the first for rigorously calculating the value of pi. One of his most remarkable and famous geometric results was determining the area of a parabolic section. (We can easily determine it by integration now.)"
+                ],
+                [
+                    "Narrator",
+                    "His approach to the calculating pi was a geometrical approach using polygons. As a result, pi is sometimes referred to as \"Archimedes' constant\". He estimated pi by constructing and computing the perimeters of both circumscribed and inscribed polygons, and got a result of 223/71 < pi < 22/7."
+                ],
+                [
+                    "Archimedes",
+                    "I have invented a screw for lifting water upwards! Cool, right?"
+                ]
+            ],
+            "endDialogue": [
+                [
+                    "Archimedes",
+                    "Oh no! You have screwed me up! Eureka! You shall be praised for your magnificent skills!"
+                ]
+            ]
+        },
+        {
+            "diff": 1,
+            "name": "Euclid",
+            "fullHP": 7700,
+            "fullAP": 120,
+            "graphics": "assets/BossImage/Euclid.png",
+            "rewards": {
+                "exp": 30422,
+                "cash": 100000
+            },
+            "dialogue": [
+                [
+                    "Narrator",
+                    "Euclid (323-283 BC) is best known for his work Euclid's Elements, a 13-volume book, which contains theorems in geometry and number theory.  His contribution has formed the basis for geometry we know today. Most of the theorems we learn at school can be found in this book."
+                ],
+                [
+                    "Narrator",
+                    "Euclidean geometry, the one we are most familiar with, is based on 5 assumptions, one of which is that there are only one possible line passing through a given point such that it is parallel to a specific line. (There may be no such lines or more than one in other geometries like hyperbolic geometry and spherical geometry, grouped under non-Euclidean Geometry.)"
+                ],
+                [
+                    "Euclid",
+                    "Hello! Are you a geometry fan?"
+                ]
+            ],
+            "endDialogue": [
+                [
+                    "Euclid",
+                    "You don\u2019t have to beat me up if you aren\u2019t a fan of geometry!"
+                ]
+            ]
+        },
+        {
+            "diff": 2,
+            "name": "Isaac Newton",
+            "fullHP": 12000,
+            "fullAP": 510,
+            "graphics": "assets/BossImage/IsaacNewton.png",
+            "rewards": {
+                "exp": 0,
+                "cash": 0
+            },
+            "dialogue": [
+                [
+                    "Narrator",
+                    "Isaac Newton (1642-1726/27) is widely recognized as one of the most influential scientists and Mathematician of all time. His book Mathematical Principles of Natural Philosophy has laid the foundations of classical mechanics."
+                ],
+                [
+                    "Narrator",
+                    "In mathematics, he shares credit with Leibniz (Leibniz\u2019s notation is a way of representing derivatives) in developing calculus, the idea of infinitesimal changes. There is also an unending list of contributions he has made."
+                ],
+                [
+                    "Narrator",
+                    "Newton\u2019s second law states that the total force F on an object is proportional to its mass m and its acceleration a. Acceleration is the rate of change of velocity v (speed with direction), and in calculus we represent this relationship as a = dv/dt, where dv/dt represents the rate of change of speed v with time t."
+                ],
+                [
+                    "Isaac Newton",
+                    "I don\u2019t like being challenged."
+                ]
+            ],
+            "endDialogue": [
+                [
+                    "Issac Newton",
+                    "You\u2019re worthy of challenging me."
+                ]
+            ]
+        },
+        {
+            "diff": 2,
+            "name": "Carl Friedrich Gauss",
+            "fullHP": 30000,
+            "fullAP": 550,
+            "graphics": "assets/BossImage/CarlFriedrichGauss.png",
+            "rewards": {
+                "exp": 170000,
+                "cash": 210000
+            },
+            "dialogue": [
+                [
+                    "Narrator",
+                    "Carl Friedrich Gauss (1777-1855) was a German Mathematician and physicist who made significant contributions to many fields in mathematics and science. He had extraordinary calculative powers, and has proved numerous important mathematical theorem. At age 24 he published Disquisitiones Arithmeticae, one of the greatest books of pure mathematics ever."
+                ],
+                [
+                    "Carl Friedrich Gauss",
+                    "By the Divergence Theorem, I can the interior of you just by looking at your exterior that you are inexperienced! I\u2019ll will prove it to you, right here, right now!"
+                ]
+            ],
+            "endDialogue": [
+                [
+                    "Carl Friedrich Gauss",
+                    "I shouldn\u2019t have judge a book by its cover! You shall become a great Mathematician!"
+                ]
+            ]
+        },
+        {
+            "diff": 3,
+            "name": "Joseph-Louis Lagrange",
+            "fullHP": 30000,
+            "fullAP": 860,
+            "graphics": "assets/BossImage/Lagrange.png",
+            "rewards": {
+                "exp": 0,
+                "cash": 0
+            },
+            "dialogue": [
+                [
+                    "Narrator",
+                    "Joseph-Louis Lagrange made significant contributions to the fields of analysis, number theory, and both classical and celestial mechanics. He likes to use analysis as opposed to geometric methods. \"No diagrams will be found in this work\" is what he wrote in the preface to his masterpiece Analytic Mechanics."
+                ]
+            ],
+            "endDialogue": [
+                [
+                    "Narrator",
+                    "Lagrange once wrote \"As long as algebra and geometry have been separated, their progress have been slow and their uses limited; but when these two sciences have been united, they have lent each mutual forces, and have marched together towards perfection.\""
+                ]
+            ]
+        },
+        {
+            "diff": 3,
+            "name": "Leonhard Euler",
+            "fullHP": 100000,
+            "fullAP": 750,
+            "graphics": "assets/BossImage/LeonhardEuler.png",
+            "rewards": {
+                "exp": 600000,
+                "cash": 536000
+            },
+            "dialogue": [
+                [
+                    "Narrator",
+                    "Euler (1707-1783) was one of the most eminent Mathematicians of the 18th century and is held to be one of the greatest in history. He is also widely considered to be the most prolific, as his collected works fill 92 volumes."
+                ],
+                [
+                    "Narrator",
+                    "He has worked on many fields in Mathematics. Due to his countless theorems, there are a lot of ambiguous \u201cEuler's equations\u201d and \u201cEuler's formulas\u201d. One of which you should know is the formula F + V - E = 2, which relates the number of faces, vertices and edges in a polygon."
+                ],
+                [
+                    "Narrator",
+                    "Euler\u2019s number e is a constant which has a value of 2.718281... If you plot an exponential graph with it, the slope at each point of the graph is equal to its value (y-coordinate) at that point!"
+                ],
+                [
+                    "Narrator",
+                    "The most renowned and elegant identity that Euler has ever derived is the \u201cEuler\u2019s identity\u201d e^(i*pi)+1 = 0. This formula combines 5 of the most important constants in mathematics, including the Euler\u2019s number e, the imaginary number i, pi, 1 and 0."
+                ]
+            ],
+            "endDialogue": []
+        },
+        {
+            "diff": 4,
+            "name": "Gorilla",
+            "fullHP": 500,
+            "fullAP": 210,
+            "graphics": "assets/BossImage/Gorilla.png",
+            "rewards": {
+                "exp": 800,
+                "cash": 3200
+            },
+            "dialogue": [
+                [
+                    "Gorilla",
+                    "UGAUGAUGAUGA"
+                ]
+            ],
+            "endDialogue": [
+                [
+                    "Gorilla",
+                    "UGAUgaugau..."
+                ]
+            ]
+        },
+        {
+            "diff": 4,
+            "name": "Monkey",
+            "fullHP": 700,
+            "fullAP": 250,
+            "graphics": "assets/BossImage/Monkey.png",
+            "rewards": {
+                "exp": 1000,
+                "cash": 3000
+            },
+            "dialogue": [
+                [
+                    "Monkey",
+                    "I'm smarter than stupid gorillas!"
+                ]
+            ],
+            "endDialogue": [
+                [
+                    "Monkey",
+                    "But not as smart as you..."
+                ]
+            ]
+        },
+        {
+            "diff": 5,
+            "name": "Insane Salaryman",
+            "fullHP": 3500,
+            "fullAP": 750,
+            "graphics": "assets/BossImage/Boy.png",
+            "rewards": {
+                "exp": 3900,
+                "cash": 6900
+            },
+            "dialogue": [
+                [
+                    "Insane Salaryman",
+                    "I'm so insane I could do math while I beat up my boss who just fired me!!!"
+                ]
+            ],
+            "endDialogue": [
+                [
+                    "Insane Salaryman",
+                    "..."
+                ]
+            ]
+        },
+        {
+            "diff": 5,
+            "name": "Crazy Office Lady",
+            "fullHP": 3200,
+            "fullAP": 700,
+            "graphics": "assets/BossImage/Girl.png",
+            "rewards": {
+                "exp": 3500,
+                "cash": 7100
+            },
+            "dialogue": [],
+            "endDialogue": []
+        },
+        {
+            "diff": 6,
+            "name": "A Smart Boy",
+            "fullHP": 7000,
+            "fullAP": 2400,
+            "graphics": "assets/BossImage/SmartBoy.png",
+            "rewards": {
+                "exp": 9100,
+                "cash": 12000
+            },
+            "dialogue": [
+                [
+                    "A Smart Boy",
+                    "I'm smart!"
+                ]
+            ],
+            "endDialogue": [
+                [
+                    "A Smart Boy",
+                    "I'm still smart, I hope..."
+                ]
+            ]
+        },
+        {
+            "diff": 6,
+            "name": "A Smart Girl",
+            "fullHP": 6500,
+            "fullAP": 2000,
+            "graphics": "assets/BossImage/SmartGirl.png",
+            "rewards": {
+                "exp": 8700,
+                "cash": 11000
+            },
+            "dialogue": [
+                [
+                    "A Smart Girl",
+                    "I am a girl who can do math!"
+                ]
+            ],
+            "endDialogue": [
+                [
+                    "A Smart Girl",
+                    "Good job!"
+                ]
+            ]
+        },
+        {
+            "diff": 7,
+            "name": "Archimedes",
+            "fullHP": 4000,
+            "fullAP": 13200,
+            "graphics": "assets/BossImage/Archimedes.png",
+            "rewards": {
+                "exp": 15000,
+                "cash": 13656
+            },
+            "dialogue": [
+                [
+                    "Archimedes",
+                    "I refuse to screw up again!"
+                ]
+            ],
+            "endDialogue": [
+                [
+                    "Archimedes",
+                    "Screw it! You win!"
+                ]
+            ]
+        },
+        {
+            "diff": 7,
+            "name": "Euclid",
+            "fullHP": 15000,
+            "fullAP": 4500,
+            "graphics": "assets/BossImage/Euclid.png",
+            "rewards": {
+                "exp": 15500,
+                "cash": 13355
+            },
+            "dialogue": [
+                [
+                    "Euclid",
+                    "I'll make you love geometry, and number theory while we're at it!"
+                ]
+            ],
+            "endDialogue": [
+                [
+                    "Euclid",
+                    "Stop beating me up! I'm not those annoying estate agents!"
+                ]
+            ]
+        },
+        {
+            "diff": 7,
+            "name": "Isaac Newton",
+            "fullHP": 14660,
+            "fullAP": 4780,
+            "graphics": "assets/BossImage/IsaacNewton.png",
+            "rewards": {
+                "exp": 16000,
+                "cash": 13000
+            },
+            "dialogue": [
+                [
+                    "Isaac Newton",
+                    "Let's battle again and see if you're good or not."
+                ]
+            ],
+            "endDialogue": [
+                [
+                    "Issac Newton",
+                    "Bravo, bravo."
+                ]
+            ]
+        },
+        {
+            "diff": 7,
+            "name": "Carl Friedrich Gauss",
+            "fullHP": 16000,
+            "fullAP": 5500,
+            "graphics": "assets/BossImage/CarlFriedrichGauss.png",
+            "rewards": {
+                "exp": 15000,
+                "cash": 14500
+            },
+            "dialogue": [
+                [
+                    "Carl Friedrich Gauss",
+                    "Oh, it's you again!"
+                ]
+            ],
+            "endDialogue": [
+                [
+                    "Carl Friedrich Gauss",
+                    "You're quite the genius!"
+                ]
+            ]
+        },
+        {
+            "diff": 7,
+            "name": "Joseph-Louis Lagrange",
+            "fullHP": 20000,
+            "fullAP": 4000,
+            "graphics": "assets/BossImage/Lagrange.png",
+            "rewards": {
+                "exp": 18000,
+                "cash": 16000
+            },
+            "dialogue": [],
+            "endDialogue": []
+        },
+        {
+            "diff": 7,
+            "name": "Leonhard Euler",
+            "fullHP": 25000,
+            "fullAP": 7000,
+            "graphics": "assets/BossImage/LeonhardEuler.png",
+            "rewards": {
+                "exp": 24000,
+                "cash": 17000
+            },
+            "dialogue": [],
+            "endDialogue": []
+        },
+        {
+            "diff": 7,
+            "name": "yandere",
+            "fullHP": 32000,
+            "fullAP": 9000,
+            "graphics": "assets/BossImage/Yandere.png",
+            "rewards": {
+                "exp": 30000,
+                "cash": 52000
+            },
+            "dialogue": [
+                [
+                    "...",
+                    "suki desu yo, suugaku ga."
+                ],
+                [
+                    "...",
+                    "kono kamoku de watashi ga ichiban ja nai to komaru kara, koroshite morau wa."
+                ]
+            ],
+            "endDialogue": [
+                [
+                    "...",
+                    "yurusenai. zetta yurusanai."
+                ]
+            ]
+        }
+    ]
+}

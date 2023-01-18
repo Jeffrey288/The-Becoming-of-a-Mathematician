@@ -1,0 +1,11 @@
+[
+	{
+		"comment" : "Sequence: GS Q5",
+		"diff" : 6,
+		"diffPt" : 0.3,
+		"time" : 270,
+		"obj" : "{\"gs\": {\"objname\": \"gs\", \"args\": \"(\\\"dec\\\")\"}, \"eval\": {\"objname\": \"eval\", \"args\": \"()\"}, \"int\": {\"objname\": \"randint\", \"args\": \"(3,8)\"}, \"rand\": {\"objname\": \"randint\", \"args\": \"(3,8)\"}}",
+		"questionStm" : "Let T(n) denote the nth term in a geometric sequence. If the sum to infinity T(1) + T(2) + T(3) + ... is {eval,evalFraction,{gs,sumByNo,inf},100000,100} and the sum of its {eval,eval,\"odd\" if {int,value}%2 == 1 else \"even\"} numbered terms {eval,eval,\"T(1) + T(3) + T(5) + ...\" if {int,value}%2 == 1 else \"T(2) + T(4) + T(6) + ...\"} is {eval,evalFraction,({gs,sumOdd,inf}) if {int,value}%2 == 1 else ({gs,sumByNo,inf}-{gs,sumOdd,inf}),100000,100}, find T({rand,value}) given that the common ratio is {gs,sign}.",
+		"answerStm" : "{eval,evalFraction,{gs,valueByNo,{rand,value}},100000,50}"
+	}
+]

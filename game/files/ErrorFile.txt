@@ -1,0 +1,29 @@
+Traceback (most recent call last):
+  File "\\ASUS\Jeffrey_s_WD_Passport\SCHOOL\ICT\ICT SBA\Program\(06072020) Final Program and Modified Report\The Becoming of a Mathematician\Main_MultiplayerMode.py", line 404, in m_MultiplayerMode
+    OnlineMulti(screen)
+  File "\\ASUS\Jeffrey_s_WD_Passport\SCHOOL\ICT\ICT SBA\Program\(06072020) Final Program and Modified Report\The Becoming of a Mathematician\Main_MultiplayerMode.py", line 307, in OnlineMulti
+    m.Main()
+  File "\\ASUS\Jeffrey_s_WD_Passport\SCHOOL\ICT\ICT SBA\Program\(06072020) Final Program and Modified Report\The Becoming of a Mathematician\mMultiplayerBattle.py", line 114, in Main
+    self.Result()
+  File "\\ASUS\Jeffrey_s_WD_Passport\SCHOOL\ICT\ICT SBA\Program\(06072020) Final Program and Modified Report\The Becoming of a Mathematician\mMultiplayerBattle.py", line 169, in Result
+    self.Dialogue("Narrator", "Your opponent has disconnected.")
+  File "\\ASUS\Jeffrey_s_WD_Passport\SCHOOL\ICT\ICT SBA\Program\(06072020) Final Program and Modified Report\The Becoming of a Mathematician\Main_Battle.py", line 415, in Dialogue
+    Quit(event)
+  File "\\ASUS\Jeffrey_s_WD_Passport\SCHOOL\ICT\ICT SBA\Program\(06072020) Final Program and Modified Report\The Becoming of a Mathematician\GlobalVar.py", line 182, in Quit
+    raise QuitError
+GlobalVar.QuitError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "//ASUS/Jeffrey_s_WD_Passport/SCHOOL/ICT/ICT SBA/Program/(06072020) Final Program and Modified Report/The Becoming of a Mathematician/The Becoming of a Mathematician.py", line 139, in <module>
+    MainMenu(Screen)
+  File "//ASUS/Jeffrey_s_WD_Passport/SCHOOL/ICT/ICT SBA/Program/(06072020) Final Program and Modified Report/The Becoming of a Mathematician/The Becoming of a Mathematician.py", line 98, in MainMenu
+    MultiplayerMode.m_MultiplayerMode(Screen)
+  File "\\ASUS\Jeffrey_s_WD_Passport\SCHOOL\ICT\ICT SBA\Program\(06072020) Final Program and Modified Report\The Becoming of a Mathematician\Main_MultiplayerMode.py", line 407, in m_MultiplayerMode
+    ConnectionFailed(screen, e)
+  File "\\ASUS\Jeffrey_s_WD_Passport\SCHOOL\ICT\ICT SBA\Program\(06072020) Final Program and Modified Report\The Becoming of a Mathematician\Main_MultiplayerMode.py", line 215, in ConnectionFailed
+    menu = pyMenu.FrameMenu(screen, GlobalVar.CentralClock)
+  File "\\ASUS\Jeffrey_s_WD_Passport\SCHOOL\ICT\ICT SBA\Program\(06072020) Final Program and Modified Report\The Becoming of a Mathematician\pyMenu.py", line 270, in __init__
+    self.height = self.screen.get_height()
+pygame.error: display Surface quit

@@ -1,0 +1,18 @@
+# The resolution of the game. The recommend aspect ratio is 4:3
+# Only expand the window horizontally out: thinner windows might cause text to go out of bounds
+# Windows that are too small might cause the program to crash (due to font sizes reducing to 0 or negative values)
+# Default: (1200, 800)
+# where 1200 is the width in pixels and 800 is the height
+
+Resolution: (1200, 800)
+
+# Whether your computer displays Unicode characters
+# If no, type "False" or "0"
+# Default: True
+
+Unicode: True
+
+# Whether you want music to be played or not.
+# There will still be sound effects like button clicking.
+
+Music: True

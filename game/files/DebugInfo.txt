@@ -1,0 +1,4383 @@
+{
+    "Quadratic Equation: Q3": [
+        0.4720000000000084,
+        {
+            "comment": "Quadratic Equation: Q3",
+            "diffPt": 0,
+            "time": 180.0,
+            "question": "Solve - 4((4x)+3)\u00b2 + 4((4x)+3) = - 120 for x.",
+            "answer": [
+                0.75,
+                -2
+            ]
+        },
+        "",
+        false,
+        [
+            0.8360000000000127,
+            {
+                "comment": "Quadratic Equation: Q3",
+                "diffPt": 0,
+                "time": 180.0,
+                "question": "Solve 4((-3x)-4)\u00b2 + 4((-3x)-4)/3 = 16/3 for x.",
+                "answer": [
+                    -1.6666666666666667,
+                    -0.8888888888888888
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.2189999999999941,
+            {
+                "comment": "Quadratic Equation: Q3",
+                "diffPt": 0,
+                "time": 180.0,
+                "question": "Solve - 2((-8x/5)-1)\u00b2 + 6((-8x/5)-1) = - 8 for x.",
+                "answer": [
+                    0,
+                    -3.125
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.6599999999999966,
+            {
+                "comment": "Quadratic Equation: Q3",
+                "diffPt": 0,
+                "time": 180,
+                "question": "Solve - 5((-3x/2)+5)\u00b2 + 65((-3x/2)+5)/6 = 5 for x.",
+                "answer": [
+                    2.888888888888889,
+                    2.3333333333333335
+                ]
+            },
+            "d",
+            false
+        ],
+        [
+            179.233,
+            {
+                "comment": "Quadratic Equation: Q3",
+                "diffPt": 0,
+                "time": 180,
+                "question": "Solve - 4((-2x)+3)\u00b2 - 23((-2x)+3)/3 = 5/3 for x.",
+                "answer": [
+                    1.625,
+                    2.3333333333333335
+                ]
+            },
+            "f",
+            false
+        ],
+        [
+            0.29300000000000637,
+            {
+                "comment": "Quadratic Equation: Q3",
+                "diffPt": 0,
+                "time": 180,
+                "question": "Solve - 5((12x/5)-2)\u00b2 + 50((12x/5)-2) = 120 for x.",
+                "answer": [
+                    "10/3",
+                    "5/2"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.2050000000000125,
+            {
+                "comment": "Quadratic Equation: Q3",
+                "diffPt": 0,
+                "time": 180,
+                "question": "Solve - 4((-3x)-4)\u00b2 + 92((-3x)-4)/5 = - 168/5 for x.",
+                "answer": [
+                    "-10/3",
+                    "-13/15"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.033999999999991815,
+            {
+                "comment": "Quadratic Equation: Q3",
+                "diffPt": 0,
+                "time": 180,
+                "question": "Solve ((3x/2)+3)\u00b2 + 4((3x/2)+3) = - 3 for x.",
+                "answer": [
+                    "-4",
+                    "-8/3"
+                ]
+            },
+            "",
+            false
+        ]
+    ],
+    "Quadratic Equation: Q11": [
+        0.4200000000000017,
+        {
+            "comment": "Quadratic Equation: Q11",
+            "diffPt": 0.05,
+            "time": 120.0,
+            "question": "Suppose the quadratic graph - 5x\u00b2 - 1/3 - 8x/3 cuts the x-axis at two points A and B. Let C be the vertex of the graph. Find the area of triangle ABC.",
+            "answer": "  1/675"
+        },
+        "f",
+        false,
+        [
+            1.0550000000000068,
+            {
+                "comment": "Quadratic Equation: Q11",
+                "diffPt": 0.05,
+                "time": 120.0,
+                "question": "Suppose the quadratic graph 6x\u00b2 + 20 + 22x cuts the x-axis at two points A and B. Let C be the vertex of the graph. Find the area of triangle ABC.",
+                "answer": "  1/36"
+            },
+            "g",
+            false
+        ],
+        [
+            0.1910000000000025,
+            {
+                "comment": "Quadratic Equation: Q11",
+                "diffPt": 0.05,
+                "time": 120.0,
+                "question": "Suppose the quadratic graph - 3x\u00b2 - 3 + 10x cuts the x-axis at two points A and B. Let C be the vertex of the graph. Find the area of triangle ABC.",
+                "answer": "  64/9"
+            },
+            "",
+            false
+        ],
+        [
+            0.2219999999999942,
+            {
+                "comment": "Quadratic Equation: Q11",
+                "diffPt": 0.05,
+                "time": 120.0,
+                "question": "Suppose the quadratic graph - 3x\u00b2 - 21 + 24x cuts the x-axis at two points A and B. Let C be the vertex of the graph. Find the area of triangle ABC.",
+                "answer": 81
+            },
+            "",
+            false
+        ],
+        [
+            0.20199999999999818,
+            {
+                "comment": "Quadratic Equation: Q11",
+                "diffPt": 0.05,
+                "time": 120.0,
+                "question": "Suppose the quadratic graph x\u00b2 + 24 - 10x cuts the x-axis at two points A and B. Let C be the vertex of the graph. Find the area of triangle ABC.",
+                "answer": 1
+            },
+            "",
+            false
+        ],
+        [
+            0.2049999999999983,
+            {
+                "comment": "Quadratic Equation: Q11",
+                "diffPt": 0.05,
+                "time": 120.0,
+                "question": "Suppose the quadratic graph 10x\u00b2 + 5 - 15x cuts the x-axis at two points A and B. Let C be the vertex of the graph. Find the area of triangle ABC.",
+                "answer": "  5/32"
+            },
+            "",
+            false
+        ],
+        [
+            0.29999999999999716,
+            {
+                "comment": "Quadratic Equation: Q11",
+                "diffPt": 0.05,
+                "time": 120,
+                "question": "Suppose the quadratic graph 5x\u00b2 + 15 + 20x cuts the x-axis at two points A and B. Let C be the vertex of the graph. Find the area of triangle ABC.",
+                "answer": 5
+            },
+            "",
+            false
+        ],
+        [
+            0.10999999999999943,
+            {
+                "comment": "Quadratic Equation: Q11",
+                "diffPt": 0.05,
+                "time": 120,
+                "question": "Suppose the quadratic graph 7x\u00b2 + 84 + 56x cuts the x-axis at two points A and B. Let C be the vertex of the graph. Find the area of triangle ABC.",
+                "answer": 56
+            },
+            "",
+            false
+        ],
+        [
+            0.10099999999999909,
+            {
+                "comment": "Quadratic Equation: Q11",
+                "diffPt": 0.05,
+                "time": 120,
+                "question": "Suppose the quadratic graph - 8x\u00b2 - 24 + 32x cuts the x-axis at two points A and B. Let C be the vertex of the graph. Find the area of triangle ABC.",
+                "answer": 8
+            },
+            "",
+            false
+        ],
+        [
+            0.15200000000000102,
+            {
+                "comment": "Quadratic Equation: Q11",
+                "diffPt": 0.05,
+                "time": 120,
+                "question": "Suppose the quadratic graph - 4x\u00b2 + 7/4 + 6x cuts the x-axis at two points A and B. Let C be the vertex of the graph. Find the area of triangle ABC.",
+                "answer": 4
+            },
+            "",
+            false
+        ],
+        [
+            0.13599999999999568,
+            {
+                "comment": "Quadratic Equation: Q11",
+                "diffPt": 0.05,
+                "time": 120,
+                "question": "Suppose the quadratic graph - 4x\u00b2 + 4  cuts the x-axis at two points A and B. Let C be the vertex of the graph. Find the area of triangle ABC.",
+                "answer": 4
+            },
+            "",
+            false
+        ],
+        [
+            0.19700000000000273,
+            {
+                "comment": "Quadratic Equation: Q11",
+                "diffPt": 0.05,
+                "time": 120,
+                "question": "Suppose the quadratic graph - 10x\u00b2 - 30 - 40x cuts the x-axis at two points A and B. Let C be the vertex of the graph. Find the area of triangle ABC.",
+                "answer": 10
+            },
+            "",
+            false
+        ],
+        [
+            0.10599999999999454,
+            {
+                "comment": "Quadratic Equation: Q11",
+                "diffPt": 0.05,
+                "time": 120,
+                "question": "Suppose the quadratic graph - 10x\u00b2 + 30 + 20x cuts the x-axis at two points A and B. Let C be the vertex of the graph. Find the area of triangle ABC.",
+                "answer": 80
+            },
+            "",
+            false
+        ],
+        [
+            0.1740000000000066,
+            {
+                "comment": "Quadratic Equation: Q11",
+                "diffPt": 0.05,
+                "time": 120,
+                "question": "Suppose the quadratic graph - 8x\u00b2 + 4 - 4x cuts the x-axis at two points A and B. Let C be the vertex of the graph. Find the area of triangle ABC.",
+                "answer": "  27/8"
+            },
+            "",
+            false
+        ]
+    ],
+    "Quadratic Equation: Q12": [
+        0.6809999999999974,
+        {
+            "comment": "Quadratic Equation: Q12",
+            "diffPt": 0,
+            "time": 120.0,
+            "question": "Suppose a and b are the two solutions to the quadratic equation x\u00b2 - 5x/3 - 2/5 = 0. Find |a^2 - b^2|, where |x| is equivalent to sqrt(x^2) (i.e. |-10| = 10, |10| = 10). (Correct your answer to 3 significant figures.)",
+            "answer": 3.487189961438937
+        },
+        "f",
+        false,
+        [
+            0.15699999999999648,
+            {
+                "comment": "Quadratic Equation: Q12",
+                "diffPt": 0,
+                "time": 120.0,
+                "question": "Suppose a and b are the two solutions to the quadratic equation x\u00b2 + 11x/3 + 9/4 = 0. Find |a^2 - b^2|, where |x| is equivalent to sqrt(x^2) (i.e. |-10| = 10, |10| = 10). (Correct your answer to 3 significant figures.)",
+                "answer": 7.73001205818937
+            },
+            "",
+            false
+        ],
+        [
+            0.5190000000000055,
+            {
+                "comment": "Quadratic Equation: Q12",
+                "diffPt": 0,
+                "time": 120.0,
+                "question": "Suppose a and b are the two solutions to the quadratic equation x\u00b2 - 2x - 2/7 = 0. Find |a^2 - b^2|, where |x| is equivalent to sqrt(x^2) (i.e. |-10| = 10, |10| = 10). (Correct your answer to 3 significant figures.)",
+                "answer": 4.535573676110727
+            },
+            "",
+            false
+        ],
+        [
+            0.04200000000000159,
+            {
+                "comment": "Quadratic Equation: Q12",
+                "diffPt": 0,
+                "time": 120.0,
+                "question": "Suppose a and b are the two solutions to the quadratic equation x\u00b2 + 3x - 3 = 0. Find |a^2 - b^2|, where |x| is equivalent to sqrt(x^2) (i.e. |-10| = 10, |10| = 10). (Correct your answer to 3 significant figures.)",
+                "answer": 13.74772708486752
+            },
+            "",
+            false
+        ],
+        [
+            0.18899999999999295,
+            {
+                "comment": "Quadratic Equation: Q12",
+                "diffPt": 0,
+                "time": 120.0,
+                "question": "Suppose a and b are the two solutions to the quadratic equation x\u00b2 + 3x/2 - 11/3 = 0. Find |a^2 - b^2|, where |x| is equivalent to sqrt(x^2) (i.e. |-10| = 10, |10| = 10). (Correct your answer to 3 significant figures.)",
+                "answer": 6.1694813396265324
+            },
+            "",
+            false
+        ],
+        [
+            0.277000000000001,
+            {
+                "comment": "Quadratic Equation: Q12",
+                "diffPt": 0,
+                "time": 120.0,
+                "question": "Suppose a and b are the two solutions to the quadratic equation x\u00b2 + x/2 - 3/2 = 0. Find |a^2 - b^2|, where |x| is equivalent to sqrt(x^2) (i.e. |-10| = 10, |10| = 10). (Correct your answer to 3 significant figures.)",
+                "answer": 1.25
+            },
+            "",
+            false
+        ],
+        [
+            0.11400000000000432,
+            {
+                "comment": "Quadratic Equation: Q12",
+                "diffPt": 0,
+                "time": 120,
+                "question": "Suppose a and b are the two solutions to the quadratic equation x\u00b2 - 4x/5 - 4/3 = 0. Find |a^2 - b^2|, where |x| is equivalent to sqrt(x^2) (i.e. |-10| = 10, |10| = 10). (Correct your answer to 3 significant figures.)",
+                "answer": 1.9552322965144917
+            },
+            "",
+            false
+        ]
+    ],
+    "Quadratic Equation: Q13": [
+        2.5120000000000005,
+        {
+            "comment": "Quadratic Equation: Q13",
+            "diffPt": 0.1,
+            "time": 180.0,
+            "question": "Suppose a and b are the two solutions to the quadratic equation x\u00b2 + 13x/5 - 9/5. Find |a^3 - b^3|, where |x| is equivalent to sqrt(x^2) (i.e. |-10| = 10, |10| = 10). (Correct your answer to 3 significant figures.)",
+            "answer": 31.982799377165225
+        },
+        "rf",
+        false,
+        [
+            2.1380000000000052,
+            {
+                "comment": "Quadratic Equation: Q13",
+                "diffPt": 0.1,
+                "time": 180.0,
+                "question": "Suppose a and b are the two solutions to the quadratic equation x\u00b2 - 3x - 2. Find |a^3 - b^3|, where |x| is equivalent to sqrt(x^2) (i.e. |-10| = 10, |10| = 10). (Correct your answer to 3 significant figures.)",
+                "answer": 45.35416188179427
+            },
+            "",
+            false
+        ],
+        [
+            0.20199999999999818,
+            {
+                "comment": "Quadratic Equation: Q13",
+                "diffPt": 0.1,
+                "time": 180.0,
+                "question": "Suppose a and b are the two solutions to the quadratic equation x\u00b2 + 11x/3 - 7/2. Find |a^3 - b^3|, where |x| is equivalent to sqrt(x^2) (i.e. |-10| = 10, |10| = 10). (Correct your answer to 3 significant figures.)",
+                "answer": 88.76761596070409
+            },
+            "",
+            false
+        ],
+        [
+            0.2050000000000125,
+            {
+                "comment": "Quadratic Equation: Q13",
+                "diffPt": 0.1,
+                "time": 180.0,
+                "question": "Suppose a and b are the two solutions to the quadratic equation x\u00b2 + 2x - 7/2. Find |a^3 - b^3|, where |x| is equivalent to sqrt(x^2) (i.e. |-10| = 10, |10| = 10). (Correct your answer to 3 significant figures.)",
+                "answer": 31.819805153394636
+            },
+            "",
+            false
+        ],
+        [
+            0.10499999999998977,
+            {
+                "comment": "Quadratic Equation: Q13",
+                "diffPt": 0.1,
+                "time": 180,
+                "question": "Suppose a and b are the two solutions to the quadratic equation x\u00b2 - 3x/2 - 7/2. Find |a^3 - b^3|, where |x| is equivalent to sqrt(x^2) (i.e. |-10| = 10, |10| = 10). (Correct your answer to 3 significant figures.)",
+                "answer": 23.17899102635833
+            },
+            "",
+            false
+        ],
+        [
+            0.1699999999999875,
+            {
+                "comment": "Quadratic Equation: Q13",
+                "diffPt": 0.1,
+                "time": 180,
+                "question": "Suppose a and b are the two solutions to the quadratic equation x\u00b2 + x - 1. Find |a^3 - b^3|, where |x| is equivalent to sqrt(x^2) (i.e. |-10| = 10, |10| = 10). (Correct your answer to 3 significant figures.)",
+                "answer": 4.47213595499958
+            },
+            "",
+            false
+        ],
+        [
+            0.20599999999998886,
+            {
+                "comment": "Quadratic Equation: Q13",
+                "diffPt": 0.1,
+                "time": 180,
+                "question": "Suppose a and b are the two solutions to the quadratic equation x\u00b2 - x - 16/5. Find |a^3 - b^3|, where |x| is equivalent to sqrt(x^2) (i.e. |-10| = 10, |10| = 10). (Correct your answer to 3 significant figures.)",
+                "answer": 15.602307521645637
+            },
+            "",
+            false
+        ],
+        [
+            0.10300000000000864,
+            {
+                "comment": "Quadratic Equation: Q13",
+                "diffPt": 0.1,
+                "time": 180,
+                "question": "Suppose a and b are the two solutions to the quadratic equation x\u00b2 - x - 5/2. Find |a^3 - b^3|, where |x| is equivalent to sqrt(x^2) (i.e. |-10| = 10, |10| = 10). (Correct your answer to 3 significant figures.)",
+                "answer": 11.6081867662439
+            },
+            "",
+            false
+        ],
+        [
+            0.10800000000000409,
+            {
+                "comment": "Quadratic Equation: Q13",
+                "diffPt": 0.1,
+                "time": 180,
+                "question": "Suppose a and b are the two solutions to the quadratic equation x\u00b2 - 23x/6 - 2. Find |a^3 - b^3|, where |x| is equivalent to sqrt(x^2) (i.e. |-10| = 10, |10| = 10). (Correct your answer to 3 significant figures.)",
+                "answer": 79.5301403953873
+            },
+            "",
+            false
+        ]
+    ],
+    "Quadratic Equation: Q2": [
+        0.44700000000000273,
+        {
+            "comment": "Quadratic Equation: Q2",
+            "diffPt": 0,
+            "time": 120.0,
+            "question": "Solve x\u00b2 - 7x/3 - 20/3 = 0 for x. (Seperate your answers with commas).",
+            "answer": [
+                "4",
+                "-5/3"
+            ]
+        },
+        "f",
+        false,
+        [
+            2.198999999999998,
+            {
+                "comment": "Quadratic Equation: Q2",
+                "diffPt": 0,
+                "time": 120.0,
+                "question": "Solve - x\u00b2/2 + 5x/4 - 1/2 = 0 for x. (Seperate your answers with commas).",
+                "answer": [
+                    "1/2",
+                    "2"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.2639999999999958,
+            {
+                "comment": "Quadratic Equation: Q2",
+                "diffPt": 0,
+                "time": 120.0,
+                "question": "Solve 3x\u00b2/5 + 21x/5 + 6 = 0 for x. (Seperate your answers with commas).",
+                "answer": [
+                    "-5",
+                    "-2"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.2680000000000007,
+            {
+                "comment": "Quadratic Equation: Q2",
+                "diffPt": 0,
+                "time": 120.0,
+                "question": "Solve - 6x\u00b2/5 - 8x/5 - 2/5 = 0 for x. (Seperate your answers with commas).",
+                "answer": [
+                    "-1",
+                    "-1/3"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.03700000000000614,
+            {
+                "comment": "Quadratic Equation: Q2",
+                "diffPt": 0,
+                "time": 120.0,
+                "question": "Solve x\u00b2 + 6x/5 - 27/5 = 0 for x. (Seperate your answers with commas).",
+                "answer": [
+                    "9/5",
+                    "-3"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.1770000000000067,
+            {
+                "comment": "Quadratic Equation: Q2",
+                "diffPt": 0,
+                "time": 120,
+                "question": "Solve - x\u00b2 - 6x + 7 = 0 for x. (Seperate your answers with commas).",
+                "answer": [
+                    "-7",
+                    "1"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.1700000000000017,
+            {
+                "comment": "Quadratic Equation: Q2",
+                "diffPt": 0,
+                "time": 120,
+                "question": "Solve x\u00b2  - 1 = 0 for x. (Seperate your answers with commas).",
+                "answer": [
+                    "1",
+                    "-1"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            1.2379999999999995,
+            {
+                "comment": "Quadratic Equation: Q2",
+                "diffPt": 0,
+                "time": 120,
+                "question": "Solve - 4x\u00b2/5 + 7x/5 - 3/5 = 0 for x. (Seperate your answers with commas).",
+                "answer": [
+                    "3/4",
+                    "1"
+                ]
+            },
+            "hahahaha",
+            false
+        ],
+        [
+            0.034000000000006025,
+            {
+                "comment": "Quadratic Equation: Q2",
+                "diffPt": 0,
+                "time": 120,
+                "question": "Solve x\u00b2  - 1 = 0 for x. (Seperate your answers with commas).",
+                "answer": [
+                    "1",
+                    "-1"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.10200000000000387,
+            {
+                "comment": "Quadratic Equation: Q2",
+                "diffPt": 0,
+                "time": 120,
+                "question": "Solve x\u00b2 - 2x/5 - 7/5 = 0 for x. (Seperate your answers with commas).",
+                "answer": [
+                    "7/5",
+                    "-1"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.11599999999999966,
+            {
+                "comment": "Quadratic Equation: Q2",
+                "diffPt": 0,
+                "time": 120,
+                "question": "Solve - x\u00b2/2 + x/5 + 7/10 = 0 for x. (Seperate your answers with commas).",
+                "answer": [
+                    "7/5",
+                    "-1"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.23799999999999955,
+            {
+                "comment": "Quadratic Equation: Q2",
+                "diffPt": 0,
+                "time": 120,
+                "question": "Solve x\u00b2/3 + 8x/15 - 7/5 = 0 for x. (Seperate your answers with commas).",
+                "answer": [
+                    "-3",
+                    "7/5"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.21599999999999397,
+            {
+                "comment": "Quadratic Equation: Q2",
+                "diffPt": 0,
+                "time": 120,
+                "question": "Solve - x\u00b2 - x + 30 = 0 for x. (Seperate your answers with commas).",
+                "answer": [
+                    "-6",
+                    "5"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.11899999999999977,
+            {
+                "comment": "Quadratic Equation: Q2",
+                "diffPt": 0,
+                "time": 90,
+                "question": "Solve - x\u00b2/4 + 21x/10 - 49/20 = 0 for x. (Seperate your answers with commas).",
+                "answer": [
+                    "7/5",
+                    "7"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.034000000000006025,
+            {
+                "comment": "Quadratic Equation: Q2",
+                "diffPt": 0,
+                "time": 90,
+                "question": "Solve 4x\u00b2/3 - 2x/3 - 2/3 = 0 for x. (Seperate your answers with commas).",
+                "answer": [
+                    "-1/2",
+                    "1"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.20900000000000318,
+            {
+                "comment": "Quadratic Equation: Q2",
+                "diffPt": 0,
+                "time": 90,
+                "question": "Solve x\u00b2/2 - 39x/10 + 27/5 = 0 for x. (Seperate your answers with commas).",
+                "answer": [
+                    "9/5",
+                    "6"
+                ]
+            },
+            "",
+            false
+        ]
+    ],
+    "Quadratic Equation: Q1": [
+        1.0960000000000036,
+        {
+            "comment": "Quadratic Equation: Q1",
+            "diffPt": -0.1,
+            "time": 120.0,
+            "question": "Solve 6x\u00b2 + 13x + 5 = 0 for x. (Seperate your answers with commas).",
+            "answer": [
+                "-5/3",
+                "-1/2"
+            ]
+        },
+        "f",
+        false,
+        [
+            4.341999999999999,
+            {
+                "comment": "Quadratic Equation: Q1",
+                "diffPt": -0.1,
+                "time": 120.0,
+                "question": "Solve 2x\u00b2 + 9x + 4 = 0 for x. (Seperate your answers with commas).",
+                "answer": [
+                    "-4",
+                    "-1/2"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.19400000000000261,
+            {
+                "comment": "Quadratic Equation: Q1",
+                "diffPt": -0.1,
+                "time": 120.0,
+                "question": "Solve 5x\u00b2 - 42x + 49 = 0 for x. (Seperate your answers with commas).",
+                "answer": [
+                    "7",
+                    "7/5"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.11199999999999477,
+            {
+                "comment": "Quadratic Equation: Q1",
+                "diffPt": -0.1,
+                "time": 120.0,
+                "question": "Solve 3x\u00b2 + 19x + 20 = 0 for x. (Seperate your answers with commas).",
+                "answer": [
+                    "-4/3",
+                    "-5"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.33499999999999375,
+            {
+                "comment": "Quadratic Equation: Q1",
+                "diffPt": -0.1,
+                "time": 120.0,
+                "question": "Solve 4x\u00b2 + 8x + 3 = 0 for x. (Seperate your answers with commas).",
+                "answer": [
+                    "-1/2",
+                    "-3/2"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.21699999999999875,
+            {
+                "comment": "Quadratic Equation: Q1",
+                "diffPt": -0.1,
+                "time": 120.0,
+                "question": "Solve x\u00b2 - 4x - 5 = 0 for x. (Seperate your answers with commas).",
+                "answer": [
+                    "5",
+                    "-1"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.2150000000000034,
+            {
+                "comment": "Quadratic Equation: Q1",
+                "diffPt": -0.1,
+                "time": 120.0,
+                "question": "Solve x\u00b2 - 12x + 35 = 0 for x. (Seperate your answers with commas).",
+                "answer": [
+                    "5",
+                    "7"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.2710000000000008,
+            {
+                "comment": "Quadratic Equation: Q1",
+                "diffPt": -0.1,
+                "time": 120.0,
+                "question": "Solve x\u00b2 + 7x + 6 = 0 for x. (Seperate your answers with commas).",
+                "answer": [
+                    "-6",
+                    "-1"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.18000000000000682,
+            {
+                "comment": "Quadratic Equation: Q1",
+                "diffPt": -0.1,
+                "time": 120.0,
+                "question": "Solve 5x\u00b2 + x - 6 = 0 for x. (Seperate your answers with commas).",
+                "answer": [
+                    "1",
+                    "-6/5"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.19700000000000273,
+            {
+                "comment": "Quadratic Equation: Q1",
+                "diffPt": -0.1,
+                "time": 120,
+                "question": "Solve 10x\u00b2 - 11x - 6 = 0 for x. (Seperate your answers with commas).",
+                "answer": [
+                    "3/2",
+                    "-2/5"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.10699999999999932,
+            {
+                "comment": "Quadratic Equation: Q1",
+                "diffPt": -0.1,
+                "time": 120,
+                "question": "Solve 3x\u00b2 - x - 4 = 0 for x. (Seperate your answers with commas).",
+                "answer": [
+                    "-1",
+                    "4/3"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.10200000000000387,
+            {
+                "comment": "Quadratic Equation: Q1",
+                "diffPt": -0.1,
+                "time": 120,
+                "question": "Solve 3x\u00b2 + 2x - 5 = 0 for x. (Seperate your answers with commas).",
+                "answer": [
+                    "1",
+                    "-5/3"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.10800000000000409,
+            {
+                "comment": "Quadratic Equation: Q1",
+                "diffPt": -0.1,
+                "time": 120,
+                "question": "Solve x\u00b2 - 12x + 35 = 0 for x. (Seperate your answers with commas).",
+                "answer": [
+                    "7",
+                    "5"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            119.666,
+            {
+                "comment": "Quadratic Equation: Q1",
+                "diffPt": -0.1,
+                "time": 120,
+                "question": "Solve x\u00b2 + 8x + 12 = 0 for x. (Seperate your answers with commas).",
+                "answer": [
+                    "-2",
+                    "-6"
+                ]
+            },
+            "d",
+            false
+        ],
+        [
+            0.03399999999999892,
+            {
+                "comment": "Quadratic Equation: Q1",
+                "diffPt": -0.1,
+                "time": 60,
+                "question": "Solve 5x\u00b2 + 9x + 4 = 0 for x. (Seperate your answers with commas).",
+                "answer": [
+                    "-1",
+                    "-4/5"
+                ]
+            },
+            "",
+            false
+        ]
+    ],
+    "Quadratic Equation: Q8": [
+        1.1340000000000003,
+        {
+            "comment": "Quadratic Equation: Q8",
+            "diffPt": -0.1,
+            "time": 90.0,
+            "question": "Find the discriminant of the quadratic equation 4x\u00b2 + 35x + 49 = 0. (Do not simplify the coefficients.)",
+            "answer": 441
+        },
+        "",
+        false,
+        [
+            1.3359999999999985,
+            {
+                "comment": "Quadratic Equation: Q8",
+                "diffPt": -0.1,
+                "time": 90.0,
+                "question": "Find the discriminant of the quadratic equation 4x\u00b2 + 11x + 6 = 0. (Do not simplify the coefficients.)",
+                "answer": 25
+            },
+            "",
+            false
+        ],
+        [
+            0.21999999999999886,
+            {
+                "comment": "Quadratic Equation: Q8",
+                "diffPt": -0.1,
+                "time": 90.0,
+                "question": "Find the discriminant of the quadratic equation x\u00b2 - 4x - 5 = 0. (Do not simplify the coefficients.)",
+                "answer": 36
+            },
+            "",
+            false
+        ],
+        [
+            0.21099999999999852,
+            {
+                "comment": "Quadratic Equation: Q8",
+                "diffPt": -0.1,
+                "time": 90,
+                "question": "Find the discriminant of the quadratic equation 4x\u00b2 + 15x + 14 = 0. (Do not simplify the coefficients.)",
+                "answer": 1
+            },
+            "",
+            false
+        ]
+    ],
+    "Quadratic Equation: Q6": [
+        1.1939999999999884,
+        {
+            "comment": "Quadratic Equation: Q6",
+            "diffPt": 0.2,
+            "time": 240.0,
+            "question": "Suppose Q(x) is a quadratic function. If Q(-5) = -18, Q(-6) = -15 and Q(-1) = -10, solve Q(x) = 6x.",
+            "answer": [
+                "1",
+                "-3"
+            ]
+        },
+        "f",
+        false,
+        [
+            0.2189999999999941,
+            {
+                "comment": "Quadratic Equation: Q6",
+                "diffPt": 0.2,
+                "time": 240.0,
+                "question": "Suppose Q(x) is a quadratic function. If Q(-8) = 50, Q(-2) = -4 and Q(-7) = 36, solve Q(x) = -4x.",
+                "answer": [
+                    "1",
+                    "-6"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.15399999999999636,
+            {
+                "comment": "Quadratic Equation: Q6",
+                "diffPt": 0.2,
+                "time": 240.0,
+                "question": "Suppose Q(x) is a quadratic function. If Q(4) = 34, Q(-5) = -2 and Q(-3) = -8, solve Q(x) = 6x.",
+                "answer": [
+                    "2",
+                    "-1"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.19999999999998863,
+            {
+                "comment": "Quadratic Equation: Q6",
+                "diffPt": 0.2,
+                "time": 240.0,
+                "question": "Suppose Q(x) is a quadratic function. If Q(6) = 33, Q(-1) = -2 and Q(-5) = 22, solve Q(x) = 2x.",
+                "answer": [
+                    "3",
+                    "-1"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.1939999999999884,
+            {
+                "comment": "Quadratic Equation: Q6",
+                "diffPt": 0.2,
+                "time": 240.0,
+                "question": "Suppose Q(x) is a quadratic function. If Q(-4) = 1, Q(-3) = -6 and Q(4) = 1, solve Q(x) = 2x.",
+                "answer": [
+                    "5",
+                    "-3"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.20199999999999818,
+            {
+                "comment": "Quadratic Equation: Q6",
+                "diffPt": 0.2,
+                "time": 240.0,
+                "question": "Suppose Q(x) is a quadratic function. If Q(-1) = -7, Q(-3) = -1 and Q(1) = -5, solve Q(x) = 7x.",
+                "answer": [
+                    "-1",
+                    "7"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.23900000000000432,
+            {
+                "comment": "Quadratic Equation: Q6",
+                "diffPt": 0.2,
+                "time": 240.0,
+                "question": "Suppose Q(x) is a quadratic function. If Q(7) = 28, Q(6) = 15 and Q(-3) = -12, solve Q(x) = -4x.",
+                "answer": [
+                    "3",
+                    "-7"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.22100000000000364,
+            {
+                "comment": "Quadratic Equation: Q6",
+                "diffPt": 0.2,
+                "time": 240.0,
+                "question": "Suppose Q(x) is a quadratic function. If Q(7) = -1, Q(-7) = 27 and Q(6) = -12, solve Q(x) = -2x.",
+                "answer": [
+                    "-6",
+                    "6"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.1699999999999875,
+            {
+                "comment": "Quadratic Equation: Q6",
+                "diffPt": 0.2,
+                "time": 240,
+                "question": "Suppose Q(x) is a quadratic function. If Q(1) = 2, Q(-2) = -16 and Q(-7) = -6, solve Q(x) = 6x.",
+                "answer": [
+                    "2",
+                    "-3"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.033999999999991815,
+            {
+                "comment": "Quadratic Equation: Q6",
+                "diffPt": 0.2,
+                "time": 240,
+                "question": "Suppose Q(x) is a quadratic function. If Q(2) = 2, Q(-1) = -7 and Q(-3) = -3, solve Q(x) = x.",
+                "answer": [
+                    "-3",
+                    "2"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.132000000000005,
+            {
+                "comment": "Quadratic Equation: Q6",
+                "diffPt": 0.2,
+                "time": 240,
+                "question": "Suppose Q(x) is a quadratic function. If Q(3) = 10, Q(7) = 46 and Q(-4) = 24, solve Q(x) = 4x.",
+                "answer": [
+                    "4",
+                    "1"
+                ]
+            },
+            "",
+            false
+        ]
+    ],
+    "Quadratic Equation: Q9": [
+        0.23199999999999932,
+        {
+            "comment": "Quadratic Equation: Q9",
+            "diffPt": -0.3,
+            "time": 90.0,
+            "question": "If x = a is the symmetry axis of the quadratic graph y = 7x\u00b2  - 63, find a.",
+            "answer": 0
+        },
+        "",
+        false,
+        [
+            12.004999999999995,
+            {
+                "comment": "Quadratic Equation: Q9",
+                "diffPt": -0.3,
+                "time": 90.0,
+                "question": "If x = a is the symmetry axis of the quadratic graph y = 4x\u00b2/3 - 10x + 12, find a.",
+                "answer": "15/4"
+            },
+            "",
+            false
+        ],
+        [
+            0.1700000000000017,
+            {
+                "comment": "Quadratic Equation: Q9",
+                "diffPt": -0.3,
+                "time": 90,
+                "question": "If x = a is the symmetry axis of the quadratic graph y = x\u00b2 - 8x/3 - 16/3, find a.",
+                "answer": "4/3"
+            },
+            "",
+            false
+        ],
+        [
+            0.14400000000000546,
+            {
+                "comment": "Quadratic Equation: Q9",
+                "diffPt": -0.3,
+                "time": 90,
+                "question": "If x = a is the symmetry axis of the quadratic graph y = 7x\u00b2/2 + 49x/2 + 35, find a.",
+                "answer": "-7/2"
+            },
+            "",
+            false
+        ],
+        [
+            0.20399999999999352,
+            {
+                "comment": "Quadratic Equation: Q9",
+                "diffPt": -0.3,
+                "time": 90,
+                "question": "If x = a is the symmetry axis of the quadratic graph y = - 9x\u00b2 - 153x/2 - 189/2, find a.",
+                "answer": "-17/4"
+            },
+            "",
+            false
+        ],
+        [
+            0.03300000000000125,
+            {
+                "comment": "Quadratic Equation: Q9",
+                "diffPt": -0.3,
+                "time": 90,
+                "question": "If x = a is the symmetry axis of the quadratic graph y = - 17x\u00b2/3 + 34x - 136/3, find a.",
+                "answer": 3
+            },
+            "",
+            false
+        ],
+        [
+            0.10500000000000398,
+            {
+                "comment": "Quadratic Equation: Q9",
+                "diffPt": -0.3,
+                "time": 90,
+                "question": "If x = a is the symmetry axis of the quadratic graph y = 3x\u00b2 - 3x/2 - 9, find a.",
+                "answer": "1/4"
+            },
+            "",
+            false
+        ],
+        [
+            0.10999999999999943,
+            {
+                "comment": "Quadratic Equation: Q9",
+                "diffPt": -0.3,
+                "time": 90,
+                "question": "If x = a is the symmetry axis of the quadratic graph y = 7x\u00b2 - 28x - 35, find a.",
+                "answer": 2
+            },
+            "",
+            false
+        ],
+        [
+            77.488,
+            {
+                "comment": "Quadratic Equation: Q9",
+                "diffPt": -0.3,
+                "time": 90,
+                "question": "If x = a is the symmetry axis of the quadratic graph y = - 7x\u00b2/2 + 91x/6 - 14, find a.",
+                "answer": "13/6"
+            },
+            "",
+            false
+        ],
+        [
+            0.20000000000000284,
+            {
+                "comment": "Quadratic Equation: Q9",
+                "diffPt": -0.3,
+                "time": 90,
+                "question": "If x = a is the symmetry axis of the quadratic graph y = 7x\u00b2/2 - 7x/20 - 42/5, find a.",
+                "answer": "1/20"
+            },
+            "",
+            false
+        ],
+        [
+            0.034000000000006025,
+            {
+                "comment": "Quadratic Equation: Q9",
+                "diffPt": -0.3,
+                "time": 90,
+                "question": "If x = a is the symmetry axis of the quadratic graph y = 5x\u00b2 + 2x - 16, find a.",
+                "answer": "-1/5"
+            },
+            "",
+            false
+        ],
+        [
+            0.2510000000000048,
+            {
+                "comment": "Quadratic Equation: Q9",
+                "diffPt": -0.3,
+                "time": 90,
+                "question": "If x = a is the symmetry axis of the quadratic graph y = 5x\u00b2 + 40x + 60, find a.",
+                "answer": -4
+            },
+            "",
+            false
+        ],
+        [
+            0.14400000000000546,
+            {
+                "comment": "Quadratic Equation: Q9",
+                "diffPt": -0.3,
+                "time": 90,
+                "question": "If x = a is the symmetry axis of the quadratic graph y = - 7x\u00b2 - 35x - 28, find a.",
+                "answer": "-5/2"
+            },
+            "",
+            false
+        ]
+    ],
+    "Quadratic Equation: Q7": [
+        0.22100000000000364,
+        {
+            "comment": "Quadratic Equation: Q7",
+            "diffPt": 0,
+            "time": 150.0,
+            "question": "Solve 8x\u00b2 - 6x - 37 = (4x - 1)(x + 2). (Seperate your answers with commas.)",
+            "answer": [
+                "5",
+                "-7/4"
+            ]
+        },
+        "",
+        false,
+        [
+            0.25200000000000955,
+            {
+                "comment": "Quadratic Equation: Q7",
+                "diffPt": 0,
+                "time": 150.0,
+                "question": "Solve 14x\u00b2 + 26x + 2 = (2x + 3)(5x + 4). (Seperate your answers with commas.)",
+                "answer": [
+                    "-2",
+                    "5/4"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.13900000000001,
+            {
+                "comment": "Quadratic Equation: Q7",
+                "diffPt": 0,
+                "time": 150,
+                "question": "Solve 5x\u00b2 - 23x - 10 = (x - 5)(x - 1). (Seperate your answers with commas.)",
+                "answer": [
+                    "-3/4",
+                    "5"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.1490000000000009,
+            {
+                "comment": "Quadratic Equation: Q7",
+                "diffPt": 0,
+                "time": 150,
+                "question": "Solve 7x\u00b2 - 20x - 6 = (x - 2)(3x + 1). (Seperate your answers with commas.)",
+                "answer": [
+                    "-1/4",
+                    "4"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.20300000000000296,
+            {
+                "comment": "Quadratic Equation: Q7",
+                "diffPt": 0,
+                "time": 150,
+                "question": "Solve 5x\u00b2 - 4x - 33 = (4x - 5)(x + 1). (Seperate your answers with commas.)",
+                "answer": [
+                    "-4",
+                    "7"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.11000000000001364,
+            {
+                "comment": "Quadratic Equation: Q7",
+                "diffPt": 0,
+                "time": 150,
+                "question": "Solve 5x\u00b2 + 2x - 31 = (x + 3)(4x - 7). (Seperate your answers with commas.)",
+                "answer": [
+                    "5",
+                    "-2"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.13599999999999568,
+            {
+                "comment": "Quadratic Equation: Q7",
+                "diffPt": 0,
+                "time": 150,
+                "question": "Solve 16x\u00b2 - 10x - 23 = (3x - 1)(5x - 1). (Seperate your answers with commas.)",
+                "answer": [
+                    "6",
+                    "-4"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.1419999999999959,
+            {
+                "comment": "Quadratic Equation: Q7",
+                "diffPt": 0,
+                "time": 150,
+                "question": "Solve 13x\u00b2 + 9x - 7 = (2x + 3)(2x - 3). (Seperate your answers with commas.)",
+                "answer": [
+                    "-2/3",
+                    "-1/3"
+                ]
+            },
+            "",
+            false
+        ],
+        [
+            0.033999999999991815,
+            {
+                "comment": "Quadratic Equation: Q7",
+                "diffPt": 0,
+                "time": 150,
+                "question": "Solve 6x\u00b2 + 29x + 43 = (5x + 8)(x + 5). (Seperate your answers with commas.)",
+                "answer": [
+                    "1",
+                    "3"
+                ]
+            },
+            "",
+            false
+        ]
+    ],
+    "Quadratic Equation: Q10": [
+        0.12099999999999511,
+        {
+            "comment": "Quadratic Equation: Q10",
+            "diffPt": -0.3,
+            "time": 90.0,
+            "question": "Find the minimum value of the quadratic graph y = - 15 - 2x + x\u00b2.",
+            "answer": -16
+        },
+        "",
+        false,
+        [
+            0.18200000000000216,
+            {
+                "comment": "Quadratic Equation: Q10",
+                "diffPt": -0.3,
+                "time": 90.0,
+                "question": "Find the maximum value of the quadratic graph y = 7/2 - 3x - x\u00b2/2.",
+                "answer": 8
+            },
+            "",
+            false
+        ],
+        [
+            0.21399999999999864,
+            {
+                "comment": "Quadratic Equation: Q10",
+                "diffPt": -0.3,
+                "time": 90.0,
+                "question": "Find the maximum value of the quadratic graph y = 18 + 9x - 9x\u00b2.",
+                "answer": "81/4"
+            },
+            "",
+            false
+        ],
+        [
+            0.1560000000000059,
+            {
+                "comment": "Quadratic Equation: Q10",
+                "diffPt": -0.3,
+                "time": 90,
+                "question": "Find the maximum value of the quadratic graph y = - 9/2 - 9x - 9x\u00b2/2.",
+                "answer": 0
+            },
+            "",
+            false
+        ],
+        [
+            0.06799999999999784,
+            {
+                "comment": "Quadratic Equation: Q10",
+                "diffPt": -0.3,
+                "time": 90,
+                "question": "Find the minimum value of the quadratic graph y = - 16/9 - 4x/9 + 4x\u00b2/3.",
+                "answer": "-49/27"
+            },
+            "",
+            false
+        ],
+        [
+            0.11400000000000432,
+            {
+                "comment": "Quadratic Equation: Q10",
+                "diffPt": -0.3,
+                "time": 90,
+                "question": "Find the maximum value of the quadratic graph y = - 16/3 - 8x/3 - x\u00b2/3.",
+                "answer": 0
+            },
+            "",
+            false
+        ],
+        [
+            0.2360000000000042,
+            {
+                "comment": "Quadratic Equation: Q10",
+                "diffPt": -0.3,
+                "time": 90,
+                "question": "Find the maximum value of the quadratic graph y = 5/2 - 5x/2 - 5x\u00b2.",
+                "answer": "45/16"
+            },
+            "",
+            false
+        ],
+        [
+            0.13599999999999568,
+            {
+                "comment": "Quadratic Equation: Q10",
+                "diffPt": -0.3,
+                "time": 90,
+                "question": "Find the maximum value of the quadratic graph y = 3/2 - x/2 - x\u00b2.",
+                "answer": "25/16"
+            },
+            "",
+            false
+        ],
+        [
+            0.15399999999999636,
+            {
+                "comment": "Quadratic Equation: Q10",
+                "diffPt": -0.3,
+                "time": 90,
+                "question": "Find the minimum value of the quadratic graph y = 2/15 - 14x/15 + 4x\u00b2/3.",
+                "answer": "-3/100"
+            },
+            "",
+            false
+        ],
+        [
+            0.08599999999999852,
+            {
+                "comment": "Quadratic Equation: Q10",
+                "diffPt": -0.3,
+                "time": 90,
+                "question": "Find the minimum value of the quadratic graph y = - 8/3 + 2x/3 + 2x\u00b2.",
+                "answer": "-49/18"
+            },
+            "",
+            false
+        ],
+        [
+            0.2330000000000041,
+            {
+                "comment": "Quadratic Equation: Q10",
+                "diffPt": -0.3,
+                "time": 90,
+                "question": "Find the minimum value of the quadratic graph y = 8 + 14x + 6x\u00b2.",
+                "answer": "-1/6"
+            },
+            "",
+            false
+        ]
+    ],
+    "Quadratic Equation: Q5": [
+        1.6740000000000066,
+        {
+            "comment": "Quadratic Equation: Q5",
+            "diffPt": 0,
+            "time": 120.0,
+            "question": "A ball is thrown in a way such that its altitude y m is a function of time t s described by y(t) = 817/4 - 77t/4 - 5t\u00b2. Find the time elasped (drop the unit) after the throw when the ball returns to its original position, i.e. y = 0.",
+            "answer": "19/4"
+        },
+        "",
+        false,
+        [
+            0.1770000000000067,
+            {
+                "comment": "Quadratic Equation: Q5",
+                "diffPt": 0,
+                "time": 120.0,
+                "question": "A ball is thrown in a way such that its altitude y m is a function of time t s described by y(t) = 247/2 - 27t/2 - 5t\u00b2. Find the time elasped (drop the unit) after the throw when the ball returns to its original position, i.e. y = 0.",
+                "answer": "19/5"
+            },
+            "",
+            false
+        ],
+        [
+            0.20699999999999363,
+            {
+                "comment": "Quadratic Equation: Q5",
+                "diffPt": 0,
+                "time": 120.0,
+                "question": "A ball is thrown in a way such that its altitude y m is a function of time t s described by y(t) = 88 + 29t - 5t\u00b2. Find the time elasped (drop the unit) after the throw when the ball returns to its original position, i.e. y = 0.",
+                "answer": 8
+            },
+            "",
+            false
+        ],
+        [
+            0.034000000000006025,
+            {
+                "comment": "Quadratic Equation: Q5",
+                "diffPt": 0,
+                "time": 120,
+                "question": "A ball is thrown in a way such that its altitude y m is a function of time t s described by y(t) = 425/8 + 145t/4 - 5t\u00b2. Find the time elasped (drop the unit) after the throw when the ball returns to its original position, i.e. y = 0.",
+                "answer": "17/2"
+            },
+            "",
+            false
+        ],
+        [
+            0.17799999999999727,
+            {
+                "comment": "Quadratic Equation: Q5",
+                "diffPt": 0,
+                "time": 120,
+                "question": "A ball is thrown in a way such that its altitude y m is a function of time t s described by y(t) = 185/4 - 165t/4 - 5t\u00b2. Find the time elasped (drop the unit) after the throw when the ball returns to its original position, i.e. y = 0.",
+                "answer": 1
+            },
+            "",
+            false
+        ],
+        [
+            0.11199999999999477,
+            {
+                "comment": "Quadratic Equation: Q5",
+                "diffPt": 0,
+                "time": 120,
+                "question": "A ball is thrown in a way such that its altitude y m is a function of time t s described by y(t) = 60 + 20t - 5t\u00b2. Find the time elasped (drop the unit) after the throw when the ball returns to its original position, i.e. y = 0.",
+                "answer": 6
+            },
+            "",
+            false
+        ],
+        [
+            0.10200000000000387,
+            {
+                "comment": "Quadratic Equation: Q5",
+                "diffPt": 0,
+                "time": 120,
+                "question": "A ball is thrown in a way such that its altitude y m is a function of time t s described by y(t) = 64 + 22t - 5t\u00b2. Find the time elasped (drop the unit) after the throw when the ball returns to its original position, i.e. y = 0.",
+                "answer": "32/5"
+            },
+            "",
+            false
+        ],
+        [
+            0.10200000000000387,
+            {
+                "comment": "Quadratic Equation: Q5",
+                "diffPt": 0,
+                "time": 120,
+                "question": "A ball is thrown in a way such that its altitude y m is a function of time t s described by y(t) = 50 - 15t - 5t\u00b2. Find the time elasped (drop the unit) after the throw when the ball returns to its original position, i.e. y = 0.",
+                "answer": 2
+            },
+            "",
+            false
+        ],
+        [
+            0.2259999999999991,
+            {
+                "comment": "Quadratic Equation: Q5",
+                "diffPt": 0,
+                "time": 120,
+                "question": "A ball is thrown in a way such that its altitude y m is a function of time t s described by y(t) = 925/3 - 14t/3 - 5t\u00b2. Find the time elasped (drop the unit) after the throw when the ball returns to its original position, i.e. y = 0.",
+                "answer": "37/5"
+            },
+            "",
+            false
+        ],
+        [
+            0.2150000000000034,
+            {
+                "comment": "Quadratic Equation: Q5",
+                "diffPt": 0,
+                "time": 120,
+                "question": "A ball is thrown in a way such that its altitude y m is a function of time t s described by y(t) = 60 + 5t - 5t\u00b2. Find the time elasped (drop the unit) after the throw when the ball returns to its original position, i.e. y = 0.",
+                "answer": 4
+            },
+            "",
+            false
+        ]
+    ],
+    "Quadratic Equation: Q4": [
+        0.29700000000002547,
+        {
+            "comment": "Quadratic Equation: Q4",
+            "diffPt": 0.2,
+            "time": 270.0,
+            "question": "A ruler that is 57 cm in length is leaning on a vertical wall. A blow of the wind, and it has sled x cm down such that the upper end is now 39 cm above the horizontal ground. If the bottom end has also moved x cm horizontally, find x. (Correct your answer to 3 significant figures.)",
+            "answer": 2.569219381653056
+        },
+        "",
+        false,
+        [
+            0.17000000000001592,
+            {
+                "comment": "Quadratic Equation: Q4",
+                "diffPt": 0.2,
+                "time": 270,
+                "question": "A ruler that is 45 cm in length is leaning on a vertical wall. A blow of the wind, and it has sled x cm down such that the upper end is now 17 cm above the horizontal ground. If the bottom end has also moved x cm horizontally, find x. (Correct your answer to 3 significant figures.)",
+                "answer": 24.66533331199932
+            },
+            "",
+            false
+        ],
+        [
+            0.18999999999999773,
+            {
+                "comment": "Quadratic Equation: Q4",
+                "diffPt": 0.2,
+                "time": 270,
+                "question": "A wooden board that is 48 cm in length is leaning on a vertical wall. A blow of the wind, and it has sled x cm down such that the upper end is now 25 cm above the horizontal ground. If the bottom end has also moved x cm horizontally, find x. (Correct your answer to 3 significant figures.)",
+                "answer": "15.98"
+            },
+            "",
+            false
+        ]
+    ],
+    "Polynomial: Q5": [
+        4.194999999999993,
+        {
+            "comment": "Polynomial: Q5",
+            "diffPt": 0.2,
+            "time": 240,
+            "question": "It is given that x + 2 is a root of the cubic polynomial P(x) = x\u00b3 + bx\u00b2 + 6x + a. When P(x) is divided by x - 3, the remainder is 20. Solve P(x) = 0.",
+            "answer": [
+                "-2",
+                "7",
+                "4"
+            ]
+        },
+        "haahahahah",
+        false
+    ],
+    "Sequence: AS Q1": [
+        119.638,
+        {
+            "comment": "Sequence: AS Q1",
+            "diffPt": 0,
+            "time": 120,
+            "question": "If 108 and 132 are the 2nd and 4th terms of an arithmetic sequence respectively, find the 5th term of the sequence.",
+            "answer": 144
+        },
+        "f",
+        false
+    ],
+    "Sequence: AS Q9": [
+        57.37,
+        {
+            "comment": "Sequence: AS Q9",
+            "diffPt": 0,
+            "time": 120,
+            "question": "Consider the arithmetic sequence -257, -247, -237, -227, ..., find the greatest term in the sequence such that it is less than -65.",
+            "answer": -67
+        },
+        "f",
+        false
+    ],
+    "Easy Mode.": [
+        0.48500000000012733,
+        {
+            "comment": "Easy Mode.",
+            "diffPt": 0,
+            "time": 3900.0,
+            "question": "Easy Mode: The answer is 1.",
+            "answer": 1
+        },
+        "",
+        false,
+        [
+            0.5650000000000546,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.6570000000001528,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.4110000000000582,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.43499999999994543,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.3949999999999818,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.3690000000001419,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.4819999999999709,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.44000000000005457,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.599999999999909,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.4699999999997999,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.49499999999989086,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.4279999999998836,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.5529999999998836,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "",
+            false
+        ],
+        [
+            0.4699999999997999,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.7869999999998072,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.5700000000001637,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            1.1219999999998436,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            1.393999999999778,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.4639999999999418,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.5109999999999673,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.42299999999977445,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.5030000000001564,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.43899999999985084,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.5140000000001237,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.43400000000019645,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.7480000000000473,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.5399999999999636,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.4470000000001164,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.6539999999999964,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.6999999999998181,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.5779999999999745,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.3670000000001892,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.40399999999999636,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.42099999999982174,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.44000000000005457,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.5329999999999018,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.44399999999996,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.4050000000002001,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            1.2460000000000946,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.4679999999998472,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.40599999999994907,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.47299999999995634,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.47499999999990905,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.3609999999998763,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.36799999999993815,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.39600000000018554,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.8649999999997817,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.38400000000001455,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            1.0019999999999527,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.43400000000019645,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            1.0590000000001965,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.5219999999999345,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.5039999999999054,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.47499999999990905,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.43600000000014916,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.4639999999999418,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.4800000000000182,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.5390000000002146,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.44099999999980355,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.4859999999998763,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.4470000000001164,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.5630000000001019,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.5889999999999418,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.5709999999999127,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.3739999999997963,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.0340000000001055,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.3809999999998581,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.7739999999998872,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.875,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.61200000000008,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.5599999999999454,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.568000000000211,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.4479999999998654,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.3710000000000946,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.34600000000000364,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.3400000000001455,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.3029999999998836,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.30999999999994543,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.4459999999999127,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.3200000000001637,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.44099999999980355,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "",
+            false
+        ],
+        [
+            0.43100000000004,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.36599999999998545,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.6359999999999673,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.5079999999998108,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.6100000000001273,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.3939999999997781,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.4470000000001164,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.375,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.32999999999992724,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.32700000000022555,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.38000000000010914,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.4130000000000109,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.40000000000009095,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.387000000000171,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.36400000000003274,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.43499999999994543,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.3739999999997963,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.5090000000000146,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.45100000000002183,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.33399999999983265,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.41899999999986903,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.3829999999998108,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.47100000000000364,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.6390000000001237,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.43600000000014916,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.5090000000000146,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.39800000000013824,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.3829999999998108,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.39800000000013824,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.4940000000001419,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.3589999999999236,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.3969999999999345,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.4050000000002001,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.45699999999987995,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.37800000000015643,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.46900000000005093,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.5360000000000582,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.3429999999998472,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.3000000000001819,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.34600000000000364,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.3229999999998654,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.4119999999998072,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "",
+            false
+        ],
+        [
+            1.4369999999998981,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            1.1309999999998581,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            2.862999999999829,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            1.3110000000001492,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            1.106000000000222,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.5579999999999927,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.3400000000001455,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "",
+            false
+        ],
+        [
+            0.36999999999989086,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "",
+            false
+        ],
+        [
+            3899.557,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.4250000000001819,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "",
+            false
+        ],
+        [
+            1.3710000000000946,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.6959999999999127,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "",
+            false
+        ],
+        [
+            0.7820000000001528,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "",
+            false
+        ],
+        [
+            2.4270000000001346,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.47400000000016007,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.4090000000001055,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.38200000000006185,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.34900000000016007,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.6970000000001164,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1.",
+            true
+        ],
+        [
+            0.36000000000012733,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.3930000000000291,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.318000000000211,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.3580000000001746,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.5030000000001564,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1.",
+            true
+        ],
+        [
+            0.25700000000006185,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "",
+            false
+        ],
+        [
+            0.4169999999999163,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.45699999999987995,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.41800000000012005,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.3530000000000655,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.42000000000007276,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.2869999999998072,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.3769999999999527,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.762000000000171,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.2880000000000109,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3900.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "",
+            false
+        ],
+        [
+            3.0,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "",
+            false
+        ],
+        [
+            0.5350000000000001,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.2709999999999999,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.2719999999999998,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            2.834,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.45299999999999985,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.40600000000000014,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.5449999999999999,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "",
+            false
+        ],
+        [
+            0.03399999999999981,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.5699999999999998,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.935,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.4249999999999998,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            1.174,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.6829999999999998,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.44700000000000006,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.33499999999999996,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.5070000000000001,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.43699999999999983,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            1.364,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            1.6,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            1.244,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            2.579,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.8610000000000002,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.887,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.3839999999999999,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.5699999999999998,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.403,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3.0,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.3420000000000001,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.2669999999999999,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "",
+            false
+        ],
+        [
+            0.5070000000000001,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.718,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.4500000000000002,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.3580000000000001,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "",
+            false
+        ],
+        [
+            0.39800000000000013,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.8610000000000002,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.42600000000000016,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.4079999999999999,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.43999999999999995,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.2879999999999998,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "",
+            false
+        ],
+        [
+            0.3490000000000002,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            2.593,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            2.06,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            2.354,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "0",
+            false
+        ],
+        [
+            2.12,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "0",
+            false
+        ],
+        [
+            2.605,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            1.672,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            2.608,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.0,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "",
+            false
+        ],
+        [
+            2.32,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            0.0,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "",
+            false
+        ],
+        [
+            0.0,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "",
+            false
+        ],
+        [
+            2.113,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            2.486,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            2.263,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            1.717,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            2.651,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            2.614,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            2.578,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ],
+        [
+            2.419,
+            {
+                "comment": "Easy Mode.",
+                "diffPt": 0,
+                "time": 3,
+                "question": "Easy Mode: The answer is 1.",
+                "answer": 1
+            },
+            "1",
+            true
+        ]
+    ]
+}

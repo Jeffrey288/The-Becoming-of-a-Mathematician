@@ -1,0 +1,16 @@
+The type of questions you will practice in this level is
+-	Arithmetic Sequences
+
+Formula sheet:
+
+General formula: 𝑻(𝒏) = 𝒂 + 𝒅(𝒏 − 1), 
+where 𝑻(𝒏) is the 𝒏 th term of the sequence
+𝒂 is the first term, and
+𝒅 is the common difference.
+
+𝑺(𝒏) = ½ 𝒏(𝒂 + 𝒍) = ½ 𝒏(2𝒂 + 𝒅(𝒏 − 1))
+where 𝑺(𝒏) is the sum of the first 𝒏 terms of the sequence, and
+𝒍 = 𝒂 + 𝒅(𝒏 − 1) is the last term of the section of the sequence.
+
+For a summary of the definition of an AS and the sum, visit the following website:
+𝒉𝒕𝒕𝒑𝒔://𝒘𝒘𝒘.𝒎𝒂𝒕𝒉𝒔𝒊𝒔𝒇𝒖𝒏.𝒄𝒐𝒎/𝒂𝒍𝒈𝒆𝒃𝒓𝒂/𝒔𝒆𝒒𝒖𝒆𝒏𝒄𝒆𝒔-𝒔𝒖𝒎𝒔-𝒂𝒓𝒊𝒕𝒉𝒎𝒆𝒕𝒊𝒄.𝒉𝒕𝒎𝒍
